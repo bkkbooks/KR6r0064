@@ -1,0 +1,358 @@
+canonical_identifier: bkk:krp/KR6r0064/X/v1
+canonical_location: https://kanripo.org/bkk/KR6r0064/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 武林西湖高僧事略
+  identifiers:
+    krp: KR6r0064
+    cbeta: X77n1526
+    cbeta_old_id: X77n1526
+    authorityid: CA0001133
+    json_key: X1526
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X77/X77n1526.xml
+    old_id: X77n1526
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0064_000-X.yaml, hash: 'sha256:ffc6847d5444a91f8db0ab299baefa03ff64f5a17a2fdf5d2c64c79bbeecdcc6'}
+  - {seq: 1, filename: KR6r0064_001-X.yaml, hash: 'sha256:dbaf35f64c3a3a0d947b597fad5b009caac0958a14d168f3bd12f1716300ccd1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0064_000-X.markers.yaml, hash: 'sha256:c80a056042004f6efb9d8725ca9de0a418951b1a1b990173dfafd3c44de76e60'}
+  - {seq: 1, role: markers, filename: assets/KR6r0064_001-X.markers.yaml, hash: 'sha256:7ec6eba34db99dec371e3bdc287523e83653f9d7aea21081e607bb0ae6b576e9'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6r0064_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1526-A 武林西湖高僧事略序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6r0064_X_000-mulu-2
+    span:
+    - front
+    - 352
+    - 352
+  label: 武林西湖高僧事略目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0064_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 7960
+  label: 武林西湖高僧事略
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0064_X_001-mulu-1
+    span:
+    - body
+    - 18
+    - 18
+  label: 晉三藏理法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0064_X_001-mulu-2
+    span:
+    - body
+    - 169
+    - 169
+  label: 齊玉泉超法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0064_X_001-mulu-3
+    span:
+    - body
+    - 355
+    - 355
+  label: 隋下竺觀法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0064_X_001-mulu-4
+    span:
+    - body
+    - 621
+    - 621
+  label: 中竺千歲和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0064_X_001-mulu-5
+    span:
+    - body
+    - 886
+    - 886
+  label: 唐徑山國一欽禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0064_X_001-mulu-6
+    span:
+    - body
+    - 1162
+    - 1162
+  label: 唐大慈山中禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0064_X_001-mulu-7
+    span:
+    - body
+    - 1544
+    - 1544
+  label: 唐下竺標法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0064_X_001-mulu-8
+    span:
+    - body
+    - 1750
+    - 1750
+  label: 唐圓澤和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0064_X_001-mulu-9
+    span:
+    - body
+    - 2043
+    - 2043
+  label: 唐韜光禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0064_X_001-mulu-10
+    span:
+    - body
+    - 2265
+    - 2265
+  label: 唐鳥窠林禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0064_X_001-mulu-11
+    span:
+    - body
+    - 2542
+    - 2542
+  label: 唐招賢通禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0064_X_001-mulu-12
+    span:
+    - body
+    - 2796
+    - 2796
+  label: 唐無著喜禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0064_X_001-mulu-13
+    span:
+    - body
+    - 3091
+    - 3091
+  label: 五代白雲翊禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0064_X_001-mulu-14
+    span:
+    - body
+    - 3315
+    - 3315
+  label: 五代長耳相和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0064_X_001-mulu-15
+    span:
+    - body
+    - 3582
+    - 3582
+  label: 五代永明潛禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0064_X_001-mulu-16
+    span:
+    - body
+    - 3866
+    - 3866
+  label: 五代智覺壽禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0064_X_001-mulu-17
+    span:
+    - body
+    - 4137
+    - 4137
+  label: 五代五雲逢禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0064_X_001-mulu-18
+    span:
+    - body
+    - 4388
+    - 4388
+  label: 宋孤山圓禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0064_X_001-mulu-19
+    span:
+    - body
+    - 4692
+    - 4692
+  label: 宋慈雲式法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0064_X_001-mulu-20
+    span:
+    - body
+    - 5007
+    - 5007
+  label: 宋明教嵩禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0064_X_001-mulu-21
+    span:
+    - body
+    - 5289
+    - 5289
+  label: 宋真悟堪律師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0064_X_001-mulu-22
+    span:
+    - body
+    - 5417
+    - 5417
+  label: 宋功臣山政禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0064_X_001-mulu-23
+    span:
+    - body
+    - 5807
+    - 5807
+  label: 宋海月辨法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0064_X_001-mulu-24
+    span:
+    - body
+    - 6073
+    - 6073
+  label: 宋辨才淨法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0064_X_001-mulu-25
+    span:
+    - body
+    - 6360
+    - 6360
+  label: 宋南屏臻法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0064_X_001-mulu-26
+    span:
+    - body
+    - 6627
+    - 6627
+  label: 宋大智照律師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0064_X_001-mulu-27
+    span:
+    - body
+    - 6895
+    - 6895
+  label: 宋三藏道法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0064_X_001-mulu-28
+    span:
+    - body
+    - 7146
+    - 7146
+  label: 宋北關妙行淨律師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0064_X_001-mulu-29
+    span:
+    - body
+    - 7427
+    - 7427
+  label: 宋僧統寧法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0064_X_001-mulu-30
+    span:
+    - body
+    - 7687
+    - 7687
+  label: 宋晉水源法師
+  type: mulu
+  level: 1
+hash: sha256:182ad25063acac12413bd0a43fd9007b56d99888e00e7fffe4bd12526a8d3a7a
