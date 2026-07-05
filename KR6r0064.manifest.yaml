@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6r0064_000.yaml, hash: 'sha256:a7dac2b13d775a322e2352f2d601dabee4d90f3d5c18833ca7aa89ca894c2725'}
-  - {seq: 1, filename: KR6r0064_001.yaml, hash: 'sha256:b21ea417f9fa4b8cf9a74ccd2166f3a3177ba148715d079a06eb665e07832cab'}
+  - {seq: 0, filename: KR6r0064_000.yaml, hash: 'sha256:ffc6847d5444a91f8db0ab299baefa03ff64f5a17a2fdf5d2c64c79bbeecdcc6'}
+  - {seq: 1, filename: KR6r0064_001.yaml, hash: 'sha256:dbaf35f64c3a3a0d947b597fad5b009caac0958a14d168f3bd12f1716300ccd1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0064_000.markers.yaml, hash: 'sha256:809ccff8a1e99e3820a95473d781a86e7079b1ab489990a320b8ed7a1dda9f14'}
-  - {seq: 1, role: markers, filename: assets/KR6r0064_001.markers.yaml, hash: 'sha256:e6f53d2069da908cdf3a32ad92c1a03061d796a4643675b845e8835cddd6d6c3'}
+  - {seq: 0, role: markers, filename: assets/KR6r0064_000.markers.yaml, hash: 'sha256:fa49ed7447e1d0624c8b557066cc13c110bd93b1c21a24a4e0919922bae45e32'}
+  - {seq: 1, role: markers, filename: assets/KR6r0064_001.markers.yaml, hash: 'sha256:bfeaf67c63c456c80d0d1539f48dff019771439724f8eca3cf9f96805da09622'}
 table_of_contents:
 - ref:
     seq: 0
@@ -357,7 +357,4 @@ table_of_contents:
   label: 宋晉水源法師
   type: mulu
   level: 1
-hash: sha256:bcfabb21766f073ad7278d56775bbfa54be38badd1bc4655b7d7ad90c28f3ef5
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:77bce01cc2f2c5ce26daee47d0cdc6782f0f8982e02cefc3d2b07ffe67a9f257
