@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6r0064_000-X.yaml, hash: 'sha256:ffc6847d5444a91f8db0ab299baefa03ff64f5a17a2fdf5d2c64c79bbeecdcc6'}
+  - {seq: 0, filename: KR6r0064_000-X.yaml, hash: 'sha256:b46d47950a4fea8e8e9ac0e2aa0359d24a816ff2ee1c38f1c913f828e622c07c'}
   - {seq: 1, filename: KR6r0064_001-X.yaml, hash: 'sha256:dbaf35f64c3a3a0d947b597fad5b009caac0958a14d168f3bd12f1716300ccd1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0064_000-X.markers.yaml, hash: 'sha256:c80a056042004f6efb9d8725ca9de0a418951b1a1b990173dfafd3c44de76e60'}
+  - {seq: 0, role: markers, filename: assets/KR6r0064_000-X.markers.yaml, hash: 'sha256:67dfd312664d842a60bee63d6e6c02ca75c16be26294a9572d2a1256abca6806'}
   - {seq: 1, role: markers, filename: assets/KR6r0064_001-X.markers.yaml, hash: 'sha256:7ec6eba34db99dec371e3bdc287523e83653f9d7aea21081e607bb0ae6b576e9'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6r0064_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1526-A 武林西湖高僧事略序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0064_X_000-mulu-2
     span:
-    - front
+    - body
     - 352
     - 352
   label: 武林西湖高僧事略目錄
@@ -355,4 +355,4 @@ table_of_contents:
   label: 宋晉水源法師
   type: mulu
   level: 1
-hash: sha256:182ad25063acac12413bd0a43fd9007b56d99888e00e7fffe4bd12526a8d3a7a
+hash: sha256:037d61f0a7b24aeccbf1618440aa5dc534e59a8f02e0dc5efeacfc1af33712cf
